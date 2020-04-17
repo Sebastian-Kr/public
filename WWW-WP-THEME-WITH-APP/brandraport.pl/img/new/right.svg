@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="31px" height="31px" viewBox="0 0 31 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>right</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="-2.22044605e-14%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#0E316B" offset="0%"></stop>
+            <stop stop-color="#0A3F6B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-280.000000, -8747.000000)">
+            <g id="Group-3" transform="translate(0.000000, 8489.000000)">
+                <g id="7-MARKI-KTORYM-POMOGLISMY">
+                    <g id="right" transform="translate(295.500000, 273.500000) scale(-1, 1) translate(-295.500000, -273.500000) translate(280.000000, 258.000000)">
+                        <g id="Group-19">
+                            <circle id="Oval-2" fill="url(#linearGradient-1)" cx="15.5" cy="15.5" r="15.5"></circle>
+                            <path d="M19.5778906,16.0705773 L22.8707838,12.8631793 C23.2613081,12.4827944 23.8944731,12.4827944 24.2849974,12.8631793 C24.6755217,13.2435642 24.6755217,13.86029 24.2849974,14.2406749 L20.2849974,18.1368207 C20.0897352,18.3270132 19.8338129,18.4221094 19.5778906,18.4221094 C19.3219683,18.4221094 19.066046,18.3270132 18.8707838,18.1368207 L14.8707838,14.2406749 C14.4802595,13.86029 14.4802595,13.2435642 14.8707838,12.8631793 C15.2613081,12.4827944 15.8944731,12.4827944 16.2849974,12.8631793 L19.5778906,16.0705773 Z" id="Combined-Shape" fill="#FFFFFF" transform="translate(19.577891, 15.500000) rotate(-90.000000) translate(-19.577891, -15.500000) "></path>
+                            <path d="M7.98906522,15.5434259 L21.4978592,15.5434259" id="Path-21" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

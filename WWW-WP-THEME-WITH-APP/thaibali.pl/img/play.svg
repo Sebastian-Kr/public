@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="55px" height="55px" viewBox="0 0 55 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>player</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-0.937944523%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#EACBAB" offset="0%"></stop>
+            <stop stop-color="#FDF7EA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Strona-glowna-Copy" transform="translate(-1009.000000, -3294.000000)">
+            <g id="heart" transform="translate(0.000000, 1206.000000)">
+                <g id="droga" transform="translate(300.000000, 689.000000)">
+                    <g id="3" transform="translate(660.000000, 1178.000000)">
+                        <g id="zobacz-film" transform="translate(50.000000, 222.000000)">
+                            <g id="player">
+                                <path d="M20.273,19 C20.223,19 20.173,19.015 20.13,19.042 C20.05,19.091 20,19.179 20,19.272 L20,34.193 C20,34.288 20.05,34.375 20.13,34.424 C20.173,34.45 20.223,34.465 20.273,34.465 C20.314,34.465 20.355,34.455 20.394,34.436 L35.31,26.976 C35.403,26.929 35.46,26.835 35.46,26.733 C35.46,26.631 35.402,26.536 35.31,26.49 L20.394,19.029 C20.355,19.01 20.314,19 20.273,19 Z" id="Path" fill="url(#linearGradient-1)"></path>
+                                <circle id="Oval-2" stroke="url(#linearGradient-1)" stroke-width="2" cx="26.5" cy="26.5" r="26.5"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

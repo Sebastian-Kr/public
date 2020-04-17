@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="9px" height="6px" viewBox="0 0 9 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>lang-down</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="-5.55111512e-15%" x2="1.11022302e-14%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#01130B" offset="0%"></stop>
+            <stop stop-color="#03190E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.5310277%" y1="-0.468972262%" x2="49.5310277%" y2="100.468972%" id="linearGradient-2">
+            <stop stop-color="#EACBAB" offset="0%"></stop>
+            <stop stop-color="#FDF7EA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="3-menu-_-podstrony" transform="translate(-1522.000000, -67.000000)" stroke="url(#linearGradient-2)">
+            <g id="Menu">
+                <g id="Group-5">
+                    <g id="Group-4">
+                        <g id="Menu" transform="translate(390.000000, 37.000000)">
+                            <g id="Language" transform="translate(1076.000000, 23.000000)">
+                                <g id="lang-down" transform="translate(57.000000, 8.000000)">
+                                    <g id="Group-2">
+                                        <polyline id="Path-7-Copy-2" stroke-width="2" transform="translate(3.474337, 1.843031) rotate(90.000000) translate(-3.474337, -1.843031) " points="1.63130619 -1.63130619 5.31736878 1.80730006 1.63130619 5.31736878"></polyline>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

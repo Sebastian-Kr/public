@@ -1,0 +1,85 @@
+.cookies,
+.cookies.slideOutDown {
+  bottom: -500px;
+  opacity: 0;
+}
+
+.cookies.slideInUp {
+  bottom: 0;
+  opacity: 1;
+}
+
+.cookies {
+  background-color: #93c01e;
+  position: fixed;
+  width: 320px;
+  min-height: 320px;
+  z-index: 99999;
+  box-shadow: 0 0 25px 0 rgba(0, 0, 0, 0.16);
+  border-radius: 5px;
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  left: 40px;
+}
+
+@media (max-width: 767px) {
+  .cookies {
+    bottom: 50px;
+    width: 100%;
+    min-height: auto;
+    left: auto;
+    right: auto;
+    margin: 0 auto;
+  }
+}
+
+.cookies__inner {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  position: static;
+  font-weight: 500;
+  text-align: center;
+}
+
+.cookies a {
+  color: #fff;
+}
+
+.cookies__close {
+  background: url("./img/iks.svg") center;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  left: auto;
+  margin: 0;
+  padding: 0;
+  transform: none;
+}
+
+.cookies .myform__submit {
+  background-color: #2d2d2d;
+  max-width: 160px;
+  height: 54px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: 14px;
+  font-weight: 400;
+  cursor: pointer;
+}
+
+@media (max-width: 767px) {
+  .myform__submit {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="8px" height="24px" viewBox="0 0 8 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>space</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="63.1277323%" y1="100%" x2="63.1277323%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#0C532D" offset="0%"></stop>
+            <stop stop-color="#7C9F86" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.25" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Strona-glowna-" transform="translate(-1363.000000, -950.000000)" stroke="url(#linearGradient-1)" stroke-width="2">
+            <g id="bottom" transform="translate(389.000000, 934.000000)">
+                <g id="tel" transform="translate(907.000000, 0.000000)">
+                    <g id="space" transform="translate(68.000000, 17.000000)">
+                        <path d="M3.83055199,0 C3.83055199,2.82592762 3.83055199,-1.65212899 3.83055199,3.43307314 C3.83055199,4.96852666 3.83724262,8.03291535 0,11 C1.4332703,12.2450573 5.32171301,12.9374108 5.89046771,13.959274 C6.49425076,15.0440715 3.73616541,16.4537729 3.83055199,17.6370334 C3.83055199,22.7496289 3.83055199,16.0612926 3.83055199,22" id="Path-11" transform="translate(2.988486, 11.000000) scale(-1, 1) translate(-2.988486, -11.000000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

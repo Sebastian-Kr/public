@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="54px" height="54px" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-0.937944523%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#EACBAB" offset="0%"></stop>
+            <stop stop-color="#FDF7EA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arrow-2" transform="translate(1.000000, 1.000000)">
+            <g id="Group-16">
+                <circle id="Oval-2" stroke="url(#linearGradient-1)" stroke-width="2" cx="26" cy="26" r="26"></circle>
+                <path d="M36,26.0338983 C32.4660691,24.779661 29.5904195,22.7118644 27.4076975,20 C27.4423439,21.6271186 28.0659788,23.2881356 28.9667847,24.9830508 L16,24.9830508 L16,26.9491525 L28.9667847,26.9491525 C28.1352715,28.3389831 27.6155758,30 27.4769903,32 C29.9368833,29.2542373 32.639301,27.0508475 36,26.0338983 Z" id="arrow-copy" fill="url(#linearGradient-1)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
